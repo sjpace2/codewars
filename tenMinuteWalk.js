@@ -7,7 +7,7 @@
 //MY SOLUTION:
 
 
-//WHAT NEEDS TO BE TRUE...
+//WHAT NEEDS TO BE TRUE:
 
 //array length must equal 10 since walk has to be 10 minutes.
 
