@@ -8,18 +8,6 @@
 
 // 2) the price of a beer can
 
-
-//pseudo code
-//function(bonus, price) => #levels
-//divide to find how many cans can be used
-//number of cans === square of each level summed
-//n = 50
-//1**2 + 2**2 + 3**2
-//loop that subtracts 1, then 2 squared, then 3 squared, and loop breaks when n < 0
-//and it also increments a count variable
-
-
-
 // MY SOLUTION
 
 // function needs to return how many levels are possible given the bonus amount and price of a can of beer. 
